@@ -1,0 +1,10 @@
+27.3.2017
+
+program : msgsendsample
+	java mail のサンプルコード。
+
+・compile
+	javac -cp javax.mail.jar:. msgsendsample
+
+・execute
+	java -cp javax.mail.jar:. msgsendsample
